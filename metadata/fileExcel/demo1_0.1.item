@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_fidIEO_rEe2mtaIatjPUqQ" name="demo1" dataPackage="_fidIEe_rEe2mtaIatjPUqQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/vanil/pitures&amp;documenta/Pictures/Desktop/demo1.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_fidIEe_rEe2mtaIatjPUqQ" name="default" dataManager="_fidIEO_rEe2mtaIatjPUqQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_fidIEu_rEe2mtaIatjPUqQ" id="_TH0MUO_rEe2mtaIatjPUqQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fidIE-_rEe2mtaIatjPUqQ" label="id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fidIFO_rEe2mtaIatjPUqQ" label="address" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fidIFe_rEe2mtaIatjPUqQ" label="city" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_fidIFu_rEe2mtaIatjPUqQ" label="state" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

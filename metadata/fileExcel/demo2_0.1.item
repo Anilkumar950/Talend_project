@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_nCX2QO_rEe2mtaIatjPUqQ" name="demo2" id="_nCWoIO_rEe2mtaIatjPUqQ" dataPackage="_nCX2Qe_rEe2mtaIatjPUqQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/vanil/pitures&amp;documenta/Pictures/Desktop/demo2.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_nCX2Qe_rEe2mtaIatjPUqQ" name="default" dataManager="_nCX2QO_rEe2mtaIatjPUqQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_nCX2Qu_rEe2mtaIatjPUqQ" id="_gOtxIO_rEe2mtaIatjPUqQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nCX2Q-_rEe2mtaIatjPUqQ" label="id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nCX2RO_rEe2mtaIatjPUqQ" label="name" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nCX2Re_rEe2mtaIatjPUqQ" label="salary" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nCX2Ru_rEe2mtaIatjPUqQ" label="pno" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_OzIU8O_0Ee2mtaIatjPUqQ" name="age" label="age" length="-1" talendType="id_Integer"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
